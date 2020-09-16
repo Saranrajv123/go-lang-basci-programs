@@ -1,1 +1,1 @@
-# go-lang-basci-programs
+# go-lang-basic-programs
